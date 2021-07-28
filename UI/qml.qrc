@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/views">
+        <file alias="main.qml">views/main.qml</file>
+        <file alias="Login.qml">views/Login.qml</file>
+        <file alias="Clock/Clock.qml">views/clock/Clock.qml</file>
+        <file alias="Clock/HourNeedle.qml">views/clock/HourNeedle.qml</file>
+        <file alias="Clock/MinutesNeedle.qml">views/clock/MinutesNeedle.qml</file>
+        <file alias="Clock/SecondNeedle.qml">views/clock/SecondNeedle.qml</file>
+        <file alias="Dashboard.qml">views/Dashboard.qml</file>
+        <file alias="Report.qml">views/Report.qml</file>
+        <file alias="Settings.qml">views/Settings.qml</file>
+        <file alias="Sales.qml">views/Sales.qml</file>
+        <file alias="Stock.qml">views/Stock.qml</file>
+        <file alias="PrintSale.qml">views/PrintSale.qml</file>
+        <file alias="IAdditem.qml">views/IAdditem.qml</file>
+        <file alias="SubHeaderReport.qml">views/SubHeaderReport.qml</file>
+    </qresource>
+
+</RCC>

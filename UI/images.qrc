@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="delete.png">views/images/delete .png</file>
+        <file>views/images/fileprint.png</file>
+        <file>views/images/fineremove.png</file>
+        <file>views/images/home.png</file>
+        <file>views/images/icons8-clear-symbol-52.png</file>
+        <file>views/images/icons8-clear-symbol-52 - Copy.png</file>
+        <file>views/images/icons8-employee80.png</file>
+        <file>views/images/icons8-minus-26.png</file>
+        <file>views/images/icons8-minus-30.png</file>
+        <file>views/images/icons8-search-24.png</file>
+        <file>views/images/Report icon.png</file>
+        <file>views/images/settings.png</file>
+        <file>views/images/whiteremove.png</file>
+    </qresource>
+</RCC>
